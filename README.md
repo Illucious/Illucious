@@ -70,10 +70,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Illucious/Illucious/output/snake.svg" alt="Snake animation" />
-
 ###
 
 
