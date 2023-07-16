@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">A passionate developer studying B.Tech in NIT Hamirpur who is fascinated by code.<br>I'm currently working on a Banking System project using Django<br>I'm currently learning Machine Learning.</p>
+<p align="left">A passionate developer studying B.Tech in NIT Hamirpur who is fascinated by code.
 
 ###
 
